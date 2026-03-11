@@ -1,0 +1,218 @@
+================================================================================
+                         DHRUV SOLANKI
+                    Full Stack Developer
+================================================================================
+
+Contact Information:
+Email: solankidhruvahir18@gmail.com
+Phone: +91 7575898884
+Location: Ahmedabad, Gujarat, India
+LinkedIn: https://linkedin.com/in/dhruv-solanki
+GitHub: https://github.com/dhruvsolanki
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+
+Motivated Full Stack Developer with a strong interest in building scalable web
+applications using modern technologies. Experienced in JavaScript, React.js,
+Node.js, and MongoDB. Skilled in creating dynamic UIs, managing state with
+Redux Toolkit, and developing robust backend services. Currently pursuing
+Master of Computer Applications while working as a Full Stack Developer Intern.
+
+Key Strengths:
+• Quick Learner & Self-Motivated
+• Problem Solving with modern development tools
+• Full Stack Development Expertise
+• Real-time Applications Development
+• Responsive Design Implementation
+• Willingness to learn and adapt to new technologies
+
+================================================================================
+EDUCATION
+================================================================================
+
+Master of Computer Applications (Pursuing)
+GTU - Lokmanya College, Ahmedabad
+Expected Graduation: 2025
+
+Bachelor of Computer Applications (67%)
+KSV University - NPCCSM College, Kadi
+Graduation: 2022-2025
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+
+Full Stack Developer Intern
+Technical Core Engineers, Gota, Ahmedabad
+Duration: July 2021 – Present
+
+Achievements & Responsibilities:
+• Gained hands-on experience in MERN stack with TypeScript, Next.js, and
+  Redux Toolkit
+• Built dynamic, responsive user interfaces using React and Tailwind CSS
+• Managed complex application state efficiently with Redux Toolkit
+• Developed scalable backend services using Node.js and Express.js
+• Created RESTful APIs and integrated third-party services
+• Tested and debugged REST APIs using Postman for reliability and performance
+• Collaborated with team members in an agile environment
+• Implemented database operations with MongoDB and MySQL
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+
+Frontend Development:
+• HTML5, CSS3, JavaScript, TypeScript
+• React.js, Next.js, Tailwind CSS
+• Redux Toolkit, State Management
+• Responsive Web Design
+
+Backend Development:
+• Node.js, Express.js
+• RESTful APIs, API Integration
+• Server-side rendering with Next.js
+
+Database & Tools:
+• MongoDB, MySQL
+• Git, GitHub, Version Control
+• Vercel, Deployment & Hosting
+• VS Code, Postman, Terminal
+• Database Design, Query Optimization
+
+================================================================================
+FEATURED PROJECTS
+================================================================================
+
+1. Streamify – Real-Time Chat & Video Calling App
+   Technologies: React, Node.js, Express.js, MongoDB, Stream SDK
+   
+   • Developed a full-stack platform for 1-on-1 and group video calls
+   • Implemented real-time chat with typing indicators and emoji reactions
+   • Built user authentication and profile management
+   • Created message history and persistence features
+   • Responsive design for desktop and mobile devices
+   
+   Key Features:
+   - Real-time communication
+   - Video/Audio calling capability
+   - User management system
+   - Chat message persistence
+
+2. CivilCare – Digital Society Management System
+   Technologies: React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+   
+   • Designed a comprehensive digital ecosystem for residential society
+     management
+   • Implemented secure admin panel with role-based access control
+   • Created resident verification and database management modules
+   • Developed notice management and billing tracking systems
+   • Integrated payment tracking and reporting features
+   
+   Key Features:
+   - Admin dashboard
+   - Resident verification system
+   - Notice distribution
+   - Billing and payment management
+   - Resident database
+   - Role-based access control
+
+3. Hotel Krishna - Authentic Kathiawadi Cuisine
+   Technologies: Next.js, React, Tailwind CSS, Node.js
+   
+   • Created a modern, engaging restaurant website
+   • Implemented dynamic menu display with category filtering
+   • Designed responsive mobile interface
+   • Added customer testimonials section
+   • Integrated contact and location information
+   • Developed special thali meal plan section
+   
+   Key Features:
+   - Dynamic menu system
+   - Thali meal plans and pricing
+   - Special cuisines showcase
+   - Customer testimonials
+   - Contact and location
+   - Mobile responsive design
+   
+   Live: https://krishna-hotel.vercel.app/
+
+4. Personal Portfolio Website
+   Technologies: Next.js, React, Tailwind CSS, TypeScript
+   
+   • Built professional portfolio website
+   • Implemented sidebar navigation with smooth animations
+   • Created multi-section layout (Home, About, Work, Contact)
+   • Added dark mode support
+   • Implemented contact form with email functionality
+   • SEO optimized with meta tags
+   
+   Key Features:
+   - Responsive design
+   - Dark mode support
+   - Project showcase
+   - Contact form
+   - SEO optimization
+   - Smooth animations
+
+================================================================================
+TOOLS & SOFTWARE
+================================================================================
+
+Development Tools:
+• Git & GitHub (Version Control)
+• VS Code (IDE)
+• Postman (API Testing)
+• Terminal/Command Line
+
+Deployment & Hosting:
+• Vercel
+• GitHub Pages
+
+Database Management:
+• MongoDB
+• MySQL
+
+Other:
+• Agile Methodology
+• RESTful API Design
+• State Management
+• UI/UX Implementation
+
+================================================================================
+CERTIFICATIONS & ACHIEVEMENTS
+================================================================================
+
+• Completed MERN Stack Development Training
+• Proficient in Full Stack Web Development
+• Experience with production applications
+• Active in continuous learning and skill development
+
+================================================================================
+LANGUAGES
+================================================================================
+
+• English (Professional)
+• Hindi (Native)
+• Gujarati (Native)
+
+================================================================================
+ADDITIONAL INFORMATION
+================================================================================
+
+• Quick learner with ability to adapt to new technologies
+• Strong problem-solving skills
+• Excellent communication abilities
+• Team player with collaborative mindset
+• Self-motivated and proactive in professional growth
+• Regular code contributor on GitHub
+• Interested in open-source development
+
+================================================================================
+REFERENCES
+================================================================================
+
+References available upon request.
+
+================================================================================
